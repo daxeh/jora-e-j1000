@@ -1,0 +1,23 @@
+# Recall Jora-E
+
+ ¯_(ツ)_/¯
+
+[JORA-E](https://github.com/daxeh/jora-e-client) aimed at applying Flux concepts,
+ImmutableJS as the app architecture basis. Similarly, this code challenge will highlight
+a set of key feature demonstrating flexibility and adaptability by _applying feedback
+given from previous code test_ in the following weighted order;
+
+1.Implements Redux core concepts without ReduxJS with React hooks API.
+
+2. React library features
+    - Composing components with functional components and higher order components
+    - Styling UI with Styled components
+    - Hooks API  ie.useState, useContext
+    - An usecase example for RxJS
+
+3. ~~Testibility~~ (Unfortunately, due to time constraints and 3rd party library
+dependency, testing was not a straight forward task that was push to last)
+
+4. An initiative to use `redux-observable` but later dropped and the decision to
+showcase only one example of a very simple usecase with `RxJS` library demonstrated
+in component hook `usePatternMatcher`
